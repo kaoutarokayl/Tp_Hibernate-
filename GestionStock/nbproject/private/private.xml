@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Pc/Documents/GestionStock/src/ma/projet/service/ProduitService.java</file>
+            <file>file:/C:/Users/Pc/Documents/GestionStock/src/ma/projet/service/CategorieService.java</file>
+            <file>file:/C:/Users/Pc/Documents/GestionStock/src/ma/projet/service/CommandeService.java</file>
+            <file>file:/C:/Users/Pc/Documents/GestionStock/src/ma/projet/service/LigneCommandeProduitService.java</file>
+            <file>file:/C:/Users/Pc/Documents/GestionStock/src/ma/projet/test/Test.java</file>
+            <file>file:/C:/Users/Pc/Documents/GestionStock/src/ma/projet/util/HibernateUtil.java</file>
+            <file>file:/C:/Users/Pc/Documents/GestionStock/src/ma/projet/classes/Categorie.java</file>
+            <file>file:/C:/Users/Pc/Documents/GestionStock/src/ma/projet/classes/Commande.java</file>
+            <file>file:/C:/Users/Pc/Documents/GestionStock/src/ma/projet/dao/IDao.java</file>
+            <file>file:/C:/Users/Pc/Documents/GestionStock/src/ma/projet/classes/LigneCommandeProduit.java</file>
+            <file>file:/C:/Users/Pc/Documents/GestionStock/src/ma/projet/classes/Produit.java</file>
+            <file>file:/C:/Users/Pc/Documents/GestionStock/src/hibernate.cfg.xml</file>
+        </group>
+    </open-files>
+</project-private>
